@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Clicker_background2_0: 5972304581333796905
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
